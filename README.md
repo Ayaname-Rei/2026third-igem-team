@@ -1,5 +1,5 @@
 1.克隆到本地
-在git bush中输入：
+在git bash中输入：
 cd 你想克隆到的地方
 git clone https://github.com/y7hl/2026third-igem-team
 
